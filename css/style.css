@@ -96,6 +96,17 @@ hr{
     margin-bottom: 50px;
 }
 
+.button-down{
+    background-color: rgb(255, 230, 0);
+    text-decoration: none;
+    font-weight: 700;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 15px;
+    color: rgb(34, 34, 34);
+
+}
+
 /* service-section */
 
 .services-section{
@@ -104,6 +115,12 @@ hr{
 }
 .services{
     width: 50%;
+}
+
+.service-heading{
+    font-size: 40px;
+    font-weight: 900;
+
 }
 
 .services img{
@@ -124,6 +141,13 @@ hr{
     padding: 20px;
 }
 
+
+.footer-text a i {
+    padding:5px ;
+    color: white;
+}
+
+foo
 /* Resposive */
 
 @media only screen and (max-width: 600px) {
